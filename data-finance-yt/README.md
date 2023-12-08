@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Practising React + Tailwind with a love letter to my homeboy
+
+Following the tutorial found [here](https://www.youtube.com/watch?v=ZU-drSVodBw), I just chose my own colour palette, text, and pictures - so that I could practice but still have a fun project that means something to me in the end 🫶🏽
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
